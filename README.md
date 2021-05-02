@@ -3,7 +3,7 @@
 
 StarWars on R console
 
-![vim-starwars](https://raw.githubusercontent.com/mattn/vim-starwars/master/screenshot.gif)
+![rstarwars](https://raw.githubusercontent.com/mattocci27/rstarwars/master/screenshot.gif)
 
 ## Installation
 
