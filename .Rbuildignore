@@ -1,0 +1,14 @@
+^\.DS_Store$
+^\.history$
+rstarwars.Rproj
+.git
+.gitignore
+^build\.txt$
+^note\.R$
+^README\.md$
+^README\.Rmd$
+^README\.html$
+^LICENSE\.md$
+screenshot.gif
+^\.Rproj\.user$
+^.*\.Rproj$
