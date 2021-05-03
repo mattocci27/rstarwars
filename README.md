@@ -35,4 +35,5 @@ Specify frame rate
     ([ascii-telnet-server](https://github.com/nitram509/ascii-telnet-server))
 -   Stream ASCII movies over HTTP:
     ([ascii-tv](https://github.com/martinraison/ascii-tv))
--   Vim version: ([vim-starwars](https://github.com/mattn/vim-starwars))
+-   Vim version: Yasuhiro Matsumoto
+    ([vim-starwars](https://github.com/mattn/vim-starwars))
