@@ -4,6 +4,8 @@ output:
       html_preview: false
 ---
 
+Note: Windows is not supported.
+
 # rstarwars
 
 StarWars on R console

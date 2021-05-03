@@ -1,4 +1,6 @@
 
+Note: Windows is not supported.
+
 # rstarwars
 
 StarWars on R console
