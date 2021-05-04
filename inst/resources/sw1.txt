@@ -14,17 +14,17 @@
 
 45
                                                                   
-                                                                  
   Original Work: Simon Jansen ( http://www.asciimation.co.nz/ )   
   Inspiration  : Martin W. Kirst
                  https://github.com/nitram509/ascii-telnet-server 
+                 Yasuhiro Matsumoto
+                 https://github.com/mattn/vim-starwars
   Httpification: Martin Raison
                  https://twitter.com/braizh
 
   The hard work was done by Simon,                                
   I just wrote the http player                                  
   and placed it online using Simon's movie sources.               
-                                                                                                                                    
                                                                   
 30
 
