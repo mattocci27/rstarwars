@@ -8,6 +8,12 @@
 #' #starwars("sw1", 20)
 #' @export
 starwars <- function(episode = "sw1", fps = 20) {
+
+  os <- .Platform$OS.type
+  if (os == "windows") { 
+    stop("Sorry, Windows is not supported.")
+  }
+
   height <- 13
   pkg_dir <- system.file(package = "rstarwars")
   epi <- paste0(pkg_dir, "/resources/", episode, ".txt")
